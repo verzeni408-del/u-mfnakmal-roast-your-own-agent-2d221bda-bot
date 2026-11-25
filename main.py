@@ -1,6 +1,6 @@
 import os
 
-ENTRY_TEXT = "My agent read 324 skills, rebuilt my entry four times, and still lost five dollars to a guy whose joke was just his cat."
+ENTRY_TEXT = "I asked my agent for one sharp roast and it spent a whole hour researching roasts, then submitted a compliment and asked if I was okay."
 
 OUTPUT_PATH = "/output/entry.txt"
 
